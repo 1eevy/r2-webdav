@@ -1,4 +1,4 @@
-compatibility_date = "2023-10-16"
+compatibility_date = "2025-10-24"
 main = "src/index.ts"
 name = "r2-webdav"
 
